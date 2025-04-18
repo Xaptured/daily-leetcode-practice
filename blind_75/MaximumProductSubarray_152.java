@@ -1,3 +1,5 @@
+package blind_75;
+
 public class MaximumProductSubarray_152 {
     public int maxProduct(int[] nums) {
         int product = 1;
