@@ -1,3 +1,5 @@
+package blind_75;
+
 public class MaximumSubArray_53 {
     public int maxSubArray(int[] nums) {
         int sum = 0;
